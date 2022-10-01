@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul123singh&label=Profile%20views&color=0e75b6&style=flat" alt="rahul123singh" /> </p>
 
-- 🔭 I’m currently working on **Improving technical skills**
+- 🔭 I’m currently working on **Myself**
 
 - 🌱 I’m currently learning **React, Javascript**
 
